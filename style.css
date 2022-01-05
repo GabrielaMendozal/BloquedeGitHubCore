@@ -1,0 +1,39 @@
+img{
+    height: 150px;
+}
+.contenedor {
+    background-color: skyblue;
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    padding: 10px;
+}
+h1{
+    text-align: center;}
+
+.seccion1{
+    background-color: lightgrey;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 5px;
+    margin: 5px;
+    
+}
+.seccion2 {
+    background-color: lightpink;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 5px;
+    margin: 5px;
+}
+.seccion3{
+    background-color: lightyellow;
+    display: flex;
+    flex-direction:row;
+    justify-content: space-around;
+    padding: 5px;
+    margin: 5px;
+}
+p{text-align: center;}
